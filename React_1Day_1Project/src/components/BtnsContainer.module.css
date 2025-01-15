@@ -1,0 +1,17 @@
+.btnsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.btns{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: #fff;
+    box-shadow: 2px 10px 10px rgba(0, 0, 0, 0.5);
+}
